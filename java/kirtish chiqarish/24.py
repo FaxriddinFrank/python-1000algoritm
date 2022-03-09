@@ -1,0 +1,5 @@
+print("Sonlarni kiriting")
+a=input("a=")
+b=input("b=")
+c=input("c=")
+print("a=",int(c),"b=",int(a),"c=",int(b))

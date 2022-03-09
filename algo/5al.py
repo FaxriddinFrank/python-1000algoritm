@@ -1,0 +1,5 @@
+print("uchburchakning tononlarini kiriting:")
+a=input("a=")
+b=input("b-")
+c=input("c=")
+print("uchburchakning yarim peremetri:",(int(a)+int(b)+int(c))/2)
